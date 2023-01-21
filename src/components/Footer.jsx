@@ -5,7 +5,7 @@ import './Footer.scss';
 function Rodape() {
     return (
         <footer class="rodape">
-        <p>Hogwarts Legacy Fake Page</p>
+        <p>Max Games</p>
         <span>Desenvolvido por Marcos Castro</span>
         <div class="rodape-media">
           <a href="https://github.com/MarcosCast"><img src={Linkedin} alt="github"/></a>

@@ -1,12 +1,13 @@
-import logo from './logo.svg';
-import './App.css';
+import './App.scss';
+//import Nav from './components/Nav'
+import Footer from './components/Footer'
 
 import React from 'react';
 
 function App() {
   return (
     <React.Fragment>
-    <Nav />
+    
     <Footer />
   </React.Fragment>    
   );
