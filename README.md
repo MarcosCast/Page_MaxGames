@@ -7,3 +7,5 @@ Uma página de venda de jogos com carrinhoe cadastro
 React
 SCSS
 npm
+ 
+Projeto em desenvolvimento
