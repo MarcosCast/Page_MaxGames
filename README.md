@@ -1,6 +1,6 @@
 # Max Games
 
-Uma página de venda de jogos com carrinho e cadastro
+Uma página com conteúdo sobre games 
 
 ### Tecnologias
 
