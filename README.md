@@ -1,9 +1,12 @@
 # Max Games
 
-Uma página de venda de jogos com carrinhoe cadastro
+Uma página com conteúdo sobre games 
 
 ### Tecnologias
 
+TypeScript
 React
 SCSS
 npm
+ 
+Projeto em desenvolvimento
