@@ -13,7 +13,7 @@ function App() {
         <p>Novo Projeto em andamento...</p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://www.google.com.br"
           target="_blank"
           rel="noopener noreferrer"
         >
