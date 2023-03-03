@@ -12,10 +12,7 @@ function App() {
         </p>
         <p>Novo Projeto em andamento...</p>
         <a
-          className="App-link"
-          href="https://www.google.com.br"
-          target="_blank"
-          rel="noopener noreferrer"
+          href='www.linkedin.com.br/in/marcos--castro'
         >
           Bem vindo
         </a>
